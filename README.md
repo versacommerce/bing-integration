@@ -1,5 +1,5 @@
 [<img src="versacommerce.png" width="250px" align="right" alt="VersaCommerce.de">](https://www.versacommerce.de/?utm_source=github)
-[<img src="bing.png" width="250px" align="right" alt="about.ads.microsoft.com">](https://about.ads.microsoft.com/en-us/resources/training/universal-event-trackings)
+[<img src="bing.png" width="150px" height="150" align="right" alt="about.ads.microsoft.com">](https://about.ads.microsoft.com/en-us/resources/training/universal-event-trackings)
 
 [VersaCommerce] [integration] [javascript] [XXXX]
 
@@ -29,8 +29,8 @@ This file is empty because it's not needed for this integration.
 
 ## Configuration options for this integration.
 | Label       | Key      | Default Value     | Validates presence? |
-| ----------- | -------- | ----------------- | ------------------- |
-|  Tag ID     | tag_id   | Default value     |        :√:          |
+| ----------- | -------- | ----------------- | :-----------------: |
+|  Tag ID     | tag_id   | Default value     |        √            |
 
 
 ##  Customization
