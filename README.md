@@ -30,7 +30,7 @@ This file is empty because it's not needed for this integration.
 ## Configuration options for this integration.
 | Label       | Key      | Default Value     | Validates presence? |
 | ----------- | -------- | ----------------- | :-----------------: |
-|  Tag ID     | tag_id   | Default value     |        √            |
+|  Tag ID     | tag_id   |                   |        √            |
 
 
 ##  Customization
