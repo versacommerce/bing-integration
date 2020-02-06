@@ -1,8 +1,6 @@
 [<img src="versacommerce.png" width="250px" align="right" alt="VersaCommerce.de">](https://www.versacommerce.de/?utm_source=github)
 [<img src="bing.png" width="75px" height="75px" align="right" alt="about.ads.microsoft.com">](https://about.ads.microsoft.com/en-us/resources/training/universal-event-trackings/?utm_source=www.versacommerce.de)
 
-[VersaCommerce] [integration] [javascript] [BingConversionPixel]
-
 # Bing Conversion Pixel Integration for VersaCommerce
 
 ## Bing Conversion Pixel
